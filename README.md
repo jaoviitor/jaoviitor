@@ -5,8 +5,8 @@
 
 <div align>
   <a href="https://github.com/jaoviitor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaoviitor&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoviitor&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaoviitor&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoviitor&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

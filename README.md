@@ -1,4 +1,4 @@
-### Olá 😀 me chamo João Vitor e sou graduando Analise e Desenvolvimento de Sistemas 💻
+### Olá 😀 me chamo João Vitor e estou graduando Analise e Desenvolvimento de Sistemas 💻
 
 -  Estou estudando back-end com JS utilizando Node
 -  Pronouns: ele/dele

@@ -1,7 +1,7 @@
 ### Olá 😀 me chamo João Vitor e sou graduando Analise e Desenvolvimento de Sistemas 💻
 
-- 🌱 Estou estudando back-end com JS utilizando Node
-- 😄 Pronouns: ele/dele
+-  Estou estudando back-end com JS utilizando Node
+-  Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

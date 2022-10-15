@@ -1,8 +1,5 @@
 ### Olá 😀 me chamo João Vitor e estou graduando Analise e Desenvolvimento de Sistemas 💻
 
--  Estou estudando back-end com JS utilizando Node
--  Noções de HTML, CSS e SQL
-
 <div align>
   <a href="https://github.com/jaoviitor">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jaoviitor&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>

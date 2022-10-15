@@ -1,7 +1,7 @@
 ### Olá 😀 me chamo João Vitor e estou graduando Analise e Desenvolvimento de Sistemas 💻
 
 -  Estou estudando back-end com JS utilizando Node
--  Pronouns: ele/dele
+-  Noções de HTML, CSS e SQL
 
 <div align>
   <a href="https://github.com/jaoviitor">

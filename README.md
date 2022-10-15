@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou João Vitor, graduando Analise e Desenvolvimento de Sistemas 💻
 
 - 🌱 Estou estudando back-end com JS utilizando Node
 - 😄 Pronouns: ele/dele

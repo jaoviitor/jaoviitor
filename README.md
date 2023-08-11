@@ -1,4 +1,4 @@
-### Olá 😀 me chamo João Vitor e estou graduando Analise e Desenvolvimento de Sistemas 💻
+### Olá 😀 me chamo João Vitor, sou formado em Analise e Desenvolvimento de Sistemas 💻 e como Programador Backend pela Softex Pernambuco
 
 <div align>
   <a href="https://github.com/jaoviitor">

@@ -11,7 +11,7 @@
   <img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030689922681688175/1030690045776121897/download20221006004219.png">
+  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030689922681688175/1218343831997780048/picrew_2.png?ex=6607521d&is=65f4dd1d&hm=b53e255004fb6b6ebcf42ff2bcf0520fa29759c1b6e6803b4313f193e0ce3a63&">
 </div>
   
  ##
